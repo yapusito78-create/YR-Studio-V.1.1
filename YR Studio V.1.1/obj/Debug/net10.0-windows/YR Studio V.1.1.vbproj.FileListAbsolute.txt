@@ -1,0 +1,31 @@
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR_Studio_V._1._1.FormAnalizadorBasico.resources
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR_Studio_V._1._1.FormPrincipal.resources
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR_Studio_V._1._1.FormRouter.resources
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.vbproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.AssemblyInfo.vb
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.vbproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\YR Studio V.1.1.exe
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\YR Studio V.1.1.deps.json
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\YR Studio V.1.1.runtimeconfig.json
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\YR Studio V.1.1.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\YR Studio V.1.1.pdb
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\refint\YR Studio V.1.1.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.pdb
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\ref\YR Studio V.1.1.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR_Studio_V._1._1.FormAnalizadorProfundo.resources
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR_Studio_V._1._1.FormAdministradorArchivos.resources
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR_Studio_V._1._1.FormAnalizadorIntermedio.resources
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\NAudio.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\NAudio.Asio.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\NAudio.Core.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\NAudio.Midi.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\NAudio.Wasapi.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\NAudio.WinForms.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\NAudio.WinMM.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\bin\Debug\net10.0-windows\TagLibSharp.dll
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studio V.1.1.vbproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\YR Studio V.1.1\YR Studio V.1.1\obj\Debug\net10.0-windows\YR Studi.7444A04F.Up2Date
